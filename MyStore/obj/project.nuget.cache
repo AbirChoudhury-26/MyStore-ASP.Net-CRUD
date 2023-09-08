@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4a2UkqdPRLIk5aV7QOJGpAMFkN8sHVMfepaaKyGCSx10CwOqD7+fi2NM+Qu3MARjwulBOBh3arni3sE/57ttg==",
+  "dgSpecHash": "4dpERHPtfQctJjURPzCoVV5QCCDbik9qGJRerebJw/0gFQm1DvEFutwdj+fjOXT859n8sZe+PIzZRnhIePD9zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\MyStore\\MyStore\\MyStore.csproj",
+  "projectFilePath": "C:\\ASP.Net Projects\\MyStore\\MyStore\\MyStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

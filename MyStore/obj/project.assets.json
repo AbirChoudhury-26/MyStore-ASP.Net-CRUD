@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\MyStore\\MyStore\\MyStore.csproj",
+      "projectUniqueName": "C:\\ASP.Net Projects\\MyStore\\MyStore\\MyStore.csproj",
       "projectName": "MyStore",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\MyStore\\MyStore\\MyStore.csproj",
+      "projectPath": "C:\\ASP.Net Projects\\MyStore\\MyStore\\MyStore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\MyStore\\MyStore\\obj\\",
+      "outputPath": "C:\\ASP.Net Projects\\MyStore\\MyStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
